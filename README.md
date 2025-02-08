@@ -1,4 +1,6 @@
 Data Analysis Using SQL
+
+
 Show all customer records
 
 SELECT * FROM customers;
