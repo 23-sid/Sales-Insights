@@ -1,5 +1,4 @@
-Data Analysis Using SQL
-
+**Data Analysis Using SQL**
 
 
 ##Show all customer records
@@ -24,12 +23,11 @@ Data Analysis Using SQL
 
 
 
-##Show transactions for Chennai market (market code for chennai is Mark001
+##Show transactions for Chennai market
 
 
 
-
-#total sales for Chennai
+##total sales for Chennai
 
 
 
@@ -49,7 +47,7 @@ Data Analysis Using SQL
 
 
 
-##Show total revenue in year 2020,
+##Show total revenue in year 2020
 
 
 
