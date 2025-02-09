@@ -9,10 +9,6 @@
 
 
 
-##Show total number of customers
-
-
-
 ##show distict currency
 
 
