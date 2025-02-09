@@ -5,8 +5,6 @@ SELECT * FROM customers;
 ##Show total number of customers
 SELECT count(*) FROM customers;
 
-##Show total number of customers
-SELECT count(*) FROM transactions;
 
 ##show distict currency
 SELECT distinct currency FROM transactions;
